@@ -26,7 +26,7 @@ Bookmark: [
     ]
 
     Links: [
-        .title: {History:}
+        .title: {History}
         .links: [
             https://www.youtube.com/watch?v=GHvnIm9UEoQ
             https://www.youtube.com/watch?v=mKFGj8sK5R8
@@ -37,7 +37,7 @@ Bookmark: [
     ]
 
     Links: [
-        .title: {Interviews:}
+        .title: {Interviews}
         .links: [
             https://www.youtube.com/watch?v=KgoSuVcHWpg
             https://www.youtube.com/watch?v=0yGhR1ybmN8
