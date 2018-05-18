@@ -4,7 +4,7 @@ Red [
 
 Article: [
 
-    Title: {Index of MyBookmarks.Space code snippets}
+    Title: {Index of My Bookmarks}
 
     Source: [
         .title: {ReAdABLE Source}
