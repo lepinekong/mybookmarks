@@ -25,7 +25,7 @@ Bookmark: [
                 
     ]
 
-    Links: [
+    History: [
         .title: {History}
         .links: [
             https://www.youtube.com/watch?v=GHvnIm9UEoQ
@@ -36,16 +36,32 @@ Bookmark: [
         ]      
     ]
 
-    Links: [
+    Interviews: [
         .title: {Interviews}
         .links: [
             https://www.youtube.com/watch?v=KgoSuVcHWpg
             https://www.youtube.com/watch?v=0yGhR1ybmN8
+            https://www.youtube.com/watch?v=tsF-8u-V4j4
         ]
     ]
 
+    System-Thinking: [
+        .title: {System Thinking}
+        .links: [
+            https://www.youtube.com/watch?v=bu7JMAQggfo
+            https://www.youtube.com/watch?v=OqEeIG8aPPk
+        ]
+
+    ]
+
+    Red-Beads-Experiment: [
+        .title: {Red Beads Experiment}
+        .links: [
+            https://www.youtube.com/watch?v=7pXu0qxtWPg
+        ]
+    ] 
+
 ]
 
-do to-red-file
-{C:\rebol\.system.user\.data\.activities\MyProjects\ReAdable.Format\lib\ReAdABLE.Human.Format.lib.red}
+do read http://readablehumanformat.com/lib.red
 markdown-gen
