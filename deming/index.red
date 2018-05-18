@@ -4,7 +4,7 @@ Red [
 
 Bookmark: [
 
-    Title: {Deming Bookmarks}
+    Title: {Deming's 14 Points for Management}
 
     Source: [
         .title: {ReAdABLE Source}
@@ -50,6 +50,7 @@ Bookmark: [
         .links: [
             https://www.youtube.com/watch?v=bu7JMAQggfo
             https://www.youtube.com/watch?v=OqEeIG8aPPk
+            https://www.youtube.com/watch?v=2MJ3lGJ4OFo
         ]
 
     ]

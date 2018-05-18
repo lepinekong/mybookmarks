@@ -1,5 +1,5 @@
 
-# Deming Bookmarks
+# Deming's 14 Points for Management
 
 
 ### ReAdABLE Source
@@ -28,6 +28,7 @@ W. Edwards Deming was an adviser, consultant, author, and teacher to some of the
 ### System Thinking
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bu7JMAQggfo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2MJ3lGJ4OFo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Red Beads Experiment
 
