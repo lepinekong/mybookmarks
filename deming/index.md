@@ -4,7 +4,7 @@
 
 ### ReAdABLE Source
 
-[http://mybookmarks.space/deming/index.red](https://github.com/lepinekong/mybookmarks/blob/deming/index.red)
+[http://mybookmarks.space/deming/index.red](https://github.com/lepinekong/mybookmarks/tree/master/deming/index.red)
 
 
 ### Who is Deming?

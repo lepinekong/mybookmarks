@@ -8,7 +8,7 @@ Bookmark: [
 
     Source: [
         .title: {ReAdABLE Source}
-        .text: {[http://mybookmarks.space/deming/index.red](https://github.com/lepinekong/mybookmarks/blob/deming/index.red)
+        .text: {[http://mybookmarks.space/deming/index.red](https://github.com/lepinekong/mybookmarks/tree/master/deming/index.red)
         }
         .Published-Url: http://mybookmarks.space/deming/index
     ]    
