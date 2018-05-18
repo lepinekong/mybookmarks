@@ -46,7 +46,7 @@ Bookmark: [
     ]
 
     System-Thinking: [
-        .title: {System Thinking}
+        .title: {System Thinking, Education and Training}
         .links: [
             https://www.youtube.com/watch?v=bu7JMAQggfo
             https://www.youtube.com/watch?v=OqEeIG8aPPk
@@ -61,6 +61,14 @@ Bookmark: [
             https://www.youtube.com/watch?v=7pXu0qxtWPg
         ]
     ] 
+
+    Books: [
+        .title: {Deming's Books}
+        .links: [
+            {Out of the Crisis (MIT Press)} https://www.amazon.com/Out-Crisis-Press-Edwards-Deming/dp/0262541157/
+            {The New Economics for Industry, Government, Education} https://www.amazon.com/New-Economics-Industry-Government-Education/dp/0262541165/
+        ]
+    ]
 
 ]
 

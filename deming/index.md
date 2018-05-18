@@ -25,7 +25,7 @@ W. Edwards Deming was an adviser, consultant, author, and teacher to some of the
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KgoSuVcHWpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tsF-8u-V4j4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### System Thinking
+### System Thinking, Education and Training
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bu7JMAQggfo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MJ3lGJ4OFo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -33,3 +33,10 @@ W. Edwards Deming was an adviser, consultant, author, and teacher to some of the
 ### Red Beads Experiment
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7pXu0qxtWPg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+### Deming's Books
+
+- [Out of the Crisis (MIT Press)](https://www.amazon.com/Out-Crisis-Press-Edwards-Deming/dp/0262541157/)
+                        
+- [The New Economics for Industry, Government, Education](https://www.amazon.com/New-Economics-Industry-Government-Education/dp/0262541165/)
+                        
