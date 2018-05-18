@@ -31,10 +31,21 @@ Bookmark: [
             https://www.youtube.com/watch?v=GHvnIm9UEoQ
             https://www.youtube.com/watch?v=mKFGj8sK5R8
             https://www.youtube.com/watch?v=6WeTaLRb-Bs
+
+            https://www.youtube.com/watch?v=vcG_Pmt_Ny4
         ]      
+    ]
+
+    Links: [
+        .title: {Interviews:}
+        .links: [
+            https://www.youtube.com/watch?v=KgoSuVcHWpg
+            https://www.youtube.com/watch?v=0yGhR1ybmN8
+        ]
     ]
 
 ]
 
-do read http://readablehumanformat.com/lib.red
+do to-red-file
+{C:\rebol\.system.user\.data\.activities\MyProjects\ReAdable.Format\lib\ReAdABLE.Human.Format.lib.red}
 markdown-gen
