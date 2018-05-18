@@ -13,15 +13,13 @@ Article: [
         .Published-Url: http://mybookmarks.space/MyBookmarks.Space/index
     ]    
     
-    index: [
-
-        Management: [
-            .title: {Management}
-            .links: [
-                {Edwards W. Deming} #./deming
-            ]      
-        ]
+    Management: [
+        .title: {Management}
+        .links: [
+            {Edwards W. Deming} %./deming
+        ]      
     ]
+    
 ]
 
 do read http://readablehumanformat.com/lib.red
