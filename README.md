@@ -1,7 +1,7 @@
 
-# This is in Maintenance Phase
+# This site is in Maintenance Phase
 
 
-### We will come back soon:
+### We will come back soon.
 
-Estimation time: 1 minute(s).
+Estimation time is: 1 minute(s).

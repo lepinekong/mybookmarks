@@ -4,11 +4,11 @@ Red [
 
 Article: [
 
-    Title: {This is in Maintenance Phase}
+    Title: {This site is in Maintenance Phase}
 
     Message: [
-        .title: {We will come back soon:}
-        .text: {Estimation time: 1 minute(s).}
+        .title: {We will come back soon.}
+        .text: {Estimation time is: 1 minute(s).}
     ]
 
 ]
