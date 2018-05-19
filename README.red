@@ -4,11 +4,11 @@ Red [
 
 Message: [
 
-    Title: {This site is in Maintenance Phase}
+    Title: {MyBookmarks.Space is in Maintenance Phase: Our Apologies.}
 
     Message: [
         .title: {We will come back soon.}
-        .text: {Estimation time is: 1 minute(s).}
+        .text: {Estimation time is: (grand unknown) minute(s) - it's true I don't like estimates very much ;)}
     ]
 
 ]
