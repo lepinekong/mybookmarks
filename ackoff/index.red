@@ -1,10 +1,10 @@
 Red [
-    Title: "index.red"
+    Title: "Russell Ackoff Bookmarks"
 ]
 
 Bookmarks: [
 
-    Title: {index}
+    Title: {Russell Ackoff Bookmarks}
 
     Source: [
         .title: {ReAdABLE Source [(What is the ReAdABLE Human Format?)](http://readablehumanformat.com)}
