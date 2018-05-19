@@ -14,13 +14,13 @@ Article: [
     ]    
     
     Management: [
-        .title: {System Thinking & Management}
+        .title: {System Thinking, Education, Management & New Economics}
         .links: [
             {Edwards W. Deming} %./deming
             {Russel Ackoff} %./ackoff
+            {Idriss Aberkane} %./aberkane
         ]      
     ]
-    
 ]
 
 do read http://readablehumanformat.com/lib.red
