@@ -1,5 +1,5 @@
 Red [
-    Title: ""
+    Title: "README.red"
 ]
 
 Article: [
@@ -7,7 +7,11 @@ Article: [
     Title: {This is in Maintenance Phase}
 
     Message: [
-        .text: {We will come back in 1 minute(s).}
+        .title: {We will come back soon:}
+        .text: {Estimation time: 1 minute(s).}
     ]
 
 ]
+
+do read http://readablehumanformat.com/lib.red
+markdown-gen
