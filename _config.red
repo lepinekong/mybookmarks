@@ -3,8 +3,8 @@ Red [
 ]
 
 blog-properties: {
-    title: Welcome to My Bookmarks
-    description: MyBookmarks.Space
+title: Welcome to My Bookmarks
+description: MyBookmarks.Space
 }
 
 config-file: %_config.yml
