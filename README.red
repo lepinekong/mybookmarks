@@ -2,7 +2,7 @@ Red [
     Title: "README.red"
 ]
 
-Article: [
+Message: [
 
     Title: {This site is in Maintenance Phase}
 

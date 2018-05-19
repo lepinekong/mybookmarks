@@ -10,3 +10,7 @@ set-maintenance-mode-on: does [
     .change text in maintenance.red to "Estimation time is: x minute(s)." where x = 1
 
 ]
+
+.rename: function [origin target][
+    
+]
