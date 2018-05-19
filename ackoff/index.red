@@ -22,6 +22,14 @@ Bookmarks: [
             {Values, Leadership, and Implementing the Deming Philosophy} https://www.youtube.com/watch?v=bu7JMAQggfo
         ] 
     ]
+
+    Ackoff-Books: [
+        .title: {Ackoff Books}
+        .links: [
+            {Turning Learning Right Side Up: Putting Education Back on Track} 
+            https://www.amazon.com/Turning-Learning-Right-Side-Education/dp/0132887630/
+        ]
+    ]
 ]
 
 do read http://readablehumanformat.com/lib.red
