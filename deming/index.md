@@ -18,16 +18,20 @@ W. Edwards Deming was an adviser, consultant, author, and teacher to some of the
 ### History
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GHvnIm9UEoQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mKFGj8sK5R8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6WeTaLRb-Bs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vcG_Pmt_Ny4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Interviews
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KgoSuVcHWpg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0yGhR1ybmN8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tsF-8u-V4j4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### System Thinking, Education and Training
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bu7JMAQggfo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OqEeIG8aPPk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2MJ3lGJ4OFo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ### Red Beads Experiment

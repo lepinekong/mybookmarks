@@ -20,7 +20,6 @@ Bookmark: [
         }
         .link: [
             {Columbia Business School} https://www8.gsb.columbia.edu/deming/about/history
-            {Deming's Revolution} https://www.youtube.com/watch?v=GHvnIm9UEoQ
         ]      
                 
     ]
