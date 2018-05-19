@@ -14,9 +14,10 @@ Article: [
     ]    
     
     Management: [
-        .title: {Management}
+        .title: {System Thinking & Management}
         .links: [
             {Edwards W. Deming} %./deming
+            {Russel Ackoff} %./ackoff
         ]      
     ]
     
