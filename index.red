@@ -21,6 +21,14 @@ Article: [
             {Idriss Aberkane} %./aberkane
         ]      
     ]
+
+    Amazing: [
+        .title: {Amazing}
+        .links: [
+            {Amazing} %./amazing
+        ]
+    ]
+
 ]
 
 do read http://readablehumanformat.com/lib.red
