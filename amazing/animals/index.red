@@ -11,7 +11,7 @@ Source: [
             
 Article: [
 
-    Title: {Index of Amazing Animals}
+    Title: {Amazing Animals}
 
     Lions: [
         .title: {Lions}

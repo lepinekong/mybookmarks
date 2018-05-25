@@ -1,5 +1,5 @@
 
-# Index of Amazing Animals
+# Amazing Animals
 
 
 ### Lions
