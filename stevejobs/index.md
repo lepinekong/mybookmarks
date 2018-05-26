@@ -1,5 +1,5 @@
 
-# stevejobs's 14 Points for Management
+# Best of Steve Jobs
 
 
 ### ReAdABLE Source
