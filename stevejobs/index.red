@@ -1,10 +1,10 @@
 Red [
-    Title: "Steve Jobs best Interviews"
+    Title: "Steve Jobs"
 ]
 
 Bookmark: [
 
-    Title: {Best of Steve Jobs}
+    Title: {Best of Steve Jobs on Product Design & Marketing}
 
     Source: [
         .title: {ReAdABLE Source}
@@ -19,6 +19,8 @@ Bookmark: [
             https://www.youtube.com/watch?v=GuB-d7jRkCw
             https://www.youtube.com/watch?v=6GinmCg_Apc
             https://www.youtube.com/watch?v=XbkMcvnNq3g
+            https://www.youtube.com/watch?v=TzimyboADaw
+            https://www.youtube.com/watch?v=YM4If6YHN3s
             https://www.youtube.com/watch?v=Gk-9Fd2mEnI
         ]      
     ]
