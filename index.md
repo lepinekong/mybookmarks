@@ -23,6 +23,11 @@
 - [Idriss Aberkane](./aberkane)
                         
 
+### Finance
+
+- [Trading World](./tradingworld/)
+                        
+
 ### Amazing
 
 - [Amazing](./amazing)

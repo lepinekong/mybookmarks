@@ -11,7 +11,7 @@ Article: [
         .text: {[http://mybookmarks.space/MyBookmarks.Space/index.red](https://github.com/lepinekong/mybookmarks/blob/master/MyBookmarks.Space/index.red)
         }
         .Published-Url: http://mybookmarks.space/MyBookmarks.Space/index
-    ] 
+    ]     
 
     Entrepreneurs: [
         .title: {Best of Entrepreneurs}
@@ -28,6 +28,13 @@ Article: [
             {Russel Ackoff} %./ackoff
             {Idriss Aberkane} %./aberkane
         ]      
+    ]
+
+    Finance: [
+        .title: {Finance}
+        .links: [
+            {Trading World} %./tradingworld/
+        ]
     ]
 
     Amazing: [
